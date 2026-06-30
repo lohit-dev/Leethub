@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/lohit-dev/Leethub/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/lohit-dev/Leethub/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/lohit-dev/Leethub/tree/master/0242-valid-anagram) |
+| [1189-maximum-number-of-balloons](https://github.com/lohit-dev/Leethub/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/lohit-dev/Leethub/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## String
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/lohit-dev/Leethub/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/lohit-dev/Leethub/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/lohit-dev/Leethub/tree/master/0242-valid-anagram) |
+| [1189-maximum-number-of-balloons](https://github.com/lohit-dev/Leethub/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/lohit-dev/Leethub/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/lohit-dev/Leethub/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Sliding Window
@@ -100,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/lohit-dev/Leethub/tree/master/0238-product-of-array-except-self) |
+## Counting
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/lohit-dev/Leethub/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
