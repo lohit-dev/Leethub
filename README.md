@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/lohit-dev/Leethub/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2553-separate-the-digits-in-an-array](https://github.com/lohit-dev/Leethub/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/lohit-dev/Leethub/tree/master/2574-left-and-right-sum-differences) |
+| [2784-check-if-array-is-good](https://github.com/lohit-dev/Leethub/tree/master/2784-check-if-array-is-good) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/lohit-dev/Leethub/tree/master/0242-valid-anagram) |
 | [1189-maximum-number-of-balloons](https://github.com/lohit-dev/Leethub/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/lohit-dev/Leethub/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2784-check-if-array-is-good](https://github.com/lohit-dev/Leethub/tree/master/2784-check-if-array-is-good) |
 ## String
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/lohit-dev/Leethub/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/lohit-dev/Leethub/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/lohit-dev/Leethub/tree/master/0977-squares-of-a-sorted-array) |
+| [2784-check-if-array-is-good](https://github.com/lohit-dev/Leethub/tree/master/2784-check-if-array-is-good) |
 ## Trie
 |  |
 | ------- |
