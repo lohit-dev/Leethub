@@ -14,12 +14,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/lohit-dev/Leethub/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/lohit-dev/Leethub/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/lohit-dev/Leethub/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/lohit-dev/Leethub/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/lohit-dev/Leethub/tree/master/0152-maximum-product-subarray) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/lohit-dev/Leethub/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/lohit-dev/Leethub/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/lohit-dev/Leethub/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/lohit-dev/Leethub/tree/master/0152-maximum-product-subarray) |
 ## Hash Table
 |  |
@@ -70,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/lohit-dev/Leethub/tree/master/0042-trapping-rain-water) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/lohit-dev/Leethub/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
