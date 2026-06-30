@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lohit-dev/Leethub/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/lohit-dev/Leethub/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/lohit-dev/Leethub/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/lohit-dev/Leethub/tree/master/0049-group-anagrams) |
 | [0152-maximum-product-subarray](https://github.com/lohit-dev/Leethub/tree/master/0152-maximum-product-subarray) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/lohit-dev/Leethub/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Dynamic Programming
@@ -24,11 +25,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/lohit-dev/Leethub/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/lohit-dev/Leethub/tree/master/0049-group-anagrams) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/lohit-dev/Leethub/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/lohit-dev/Leethub/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/lohit-dev/Leethub/tree/master/0049-group-anagrams) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/lohit-dev/Leethub/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/lohit-dev/Leethub/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Sliding Window
@@ -46,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/lohit-dev/Leethub/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/lohit-dev/Leethub/tree/master/0049-group-anagrams) |
 ## Trie
 |  |
 | ------- |
