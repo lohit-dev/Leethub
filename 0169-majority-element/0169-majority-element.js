@@ -3,27 +3,17 @@
  * @return {number}
  */
 var majorityElement = function(nums) {
-    let elements = -1
-    let count = 0
+    const hash = {};
+    let res = 0;
+    let majority = 0;
 
-    for(let i = 0; i < nums.length; i++){
-        if (count === 0) {
-            elements = nums[i]
-            count = 1
-        } else if (nums[i] == elements) {
-            count += 1
-        } else {
-            count -= 1
+    for (let n of nums) {
+        hash[n] = 1 + (hash[n] || 0);
+        if (hash[n] > majority) {
+            res = n;
+            majority = hash[n];
         }
     }
 
-    count = 0
-    for (let i = 0; i< nums.length;i++){
-        if (nums[i] === elements) {
-            count++;
-        }
-    }
-
-
-    return count > nums.length / 2 ? elements : -1;
+    return res;   
 };
