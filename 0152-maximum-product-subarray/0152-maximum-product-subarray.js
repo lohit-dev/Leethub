@@ -3,21 +3,25 @@
  * @return {number}
  */
 var maxProduct = function(nums) {
-    let maxSoFar = nums[0]
-    let maxEndingHere = nums[0]
-    let minEndingHere = nums[0]
+let result = nums[0];
+    let currentMax = nums[0];
+    let currentMin = nums[0];
 
-    for (let i = 1; i < nums.length; i++){
-        let current = nums[i]
+    for (let i = 1; i < nums.length; i++) {
+        const num = nums[i];
 
-        let tempMax = Math.max(current, Math.max(maxEndingHere * current, minEndingHere * current))
-        let tempMin = Math.min(current, Math.min(maxEndingHere * current, minEndingHere * current))
+        // If num is negative, high and low swap roles
+        if (num < 0) {
+            [currentMax, currentMin] = [currentMin, currentMax];
+        }
 
-        maxEndingHere = tempMax
-        minEndingHere = tempMin
+        // Extend the subarray, or start fresh at this index
+        currentMax = Math.max(num, currentMax * num);
+        currentMin = Math.min(num, currentMin * num);
 
-        maxSoFar = Math.max(maxSoFar, maxEndingHere)  
+        // Track the best product seen so far
+        result = Math.max(result, currentMax);
     }
-    
-    return maxSoFar
+
+    return result;
 };
