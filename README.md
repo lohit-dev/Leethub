@@ -150,4 +150,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/lohit-dev/Leethub/tree/master/0150-evaluate-reverse-polish-notation) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/lohit-dev/Leethub/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/lohit-dev/Leethub/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/lohit-dev/Leethub/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
