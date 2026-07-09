@@ -3,12 +3,12 @@
  * @return {boolean}
  */
 var isMiddleElementUnique = function(nums) {
-    let map = {} 
-    let middle = Math.floor(nums.length / 2)  
+    let count = 0
+    let middle = nums[Math.floor(nums.length / 2)]  
     
     for (let i = 0; i < nums.length; i++){
-        map[nums[i]] = (map[nums[i]] ?? 0) + 1;
+        if (nums[i] === middle) count++
     }
     
-    return map[nums[middle]] === 1
+    return count === 1
 };
