@@ -11,6 +11,7 @@
  */
 var mergeKLists = function(lists) {
     if(lists.length === 0) return null
+    
     let merged = lists[0]
     for (let i = 1; i < lists.length; i++) {
         merged = mergeTwoLinkedLists(merged,lists[i])
