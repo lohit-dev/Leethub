@@ -27,3 +27,14 @@ var getIntersectionNode = function(headA, headB) {
 
     return null
 };
+
+//     var pA = headA;
+//     var pB = headB;
+
+//     // Each pointer traverses both lists, meeting at intersection or null
+//     while (pA !== pB) {
+//         pA = (pA !== null) ? pA.next : headB;
+//         pB = (pB !== null) ? pB.next : headA;
+//     }
+
+//     return pA;
