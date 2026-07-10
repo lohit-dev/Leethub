@@ -28,6 +28,7 @@ var removeNthFromEnd = function(head, n) {
         count+=1
         if(count === index) {
             curr.next = curr.next.next
+            break;
         }
         curr = curr.next
     }
