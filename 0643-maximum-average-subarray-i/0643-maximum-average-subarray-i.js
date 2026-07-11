@@ -20,16 +20,18 @@
 // };
 
 var findMaxAverage = function (nums, k) {
-    let window_sum = 0
-    for (let i = 0; i < k; i++) {
-     window_sum += nums[i]   
-    }
+  let curr = 0
+  for (let i = 0; i < k; i++) {
+    curr += nums[i]
+  }
 
-    let maxSum = window_sum
-    for (let i = 0; i < nums.length - k; i++) {
-        window_sum += nums[i+k] - nums[i]  
-        maxSum = Math.max(maxSum, window_sum)
-    }
+  let maxSum = curr
+  for (let i = 0;i < nums.length - k; i++) {
+    curr = curr - nums[i]
+    curr = curr + nums[i + k]
 
-    return maxSum / k
+    maxSum = Math.max(maxSum,curr)
+  }
+
+  return maxSum / k
 }
