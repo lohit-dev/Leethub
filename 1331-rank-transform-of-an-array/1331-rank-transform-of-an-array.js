@@ -15,11 +15,5 @@ var arrayRankTransform = function(arr) {
         rank++;
     }
 
-    let result = [];
-
-    for (let i = 0; i < arr.length; i++) {
-        result.push(hashmap[arr[i]]);
-    }
-
-    return result;
+   return arr.map(num => hashmap[num]);
 };
