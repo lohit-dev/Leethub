@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/lohit-dev/Leethub/tree/master/0643-maximum-average-subarray-i) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/lohit-dev/Leethub/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0977-squares-of-a-sorted-array](https://github.com/lohit-dev/Leethub/tree/master/0977-squares-of-a-sorted-array) |
+| [1331-rank-transform-of-an-array](https://github.com/lohit-dev/Leethub/tree/master/1331-rank-transform-of-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/lohit-dev/Leethub/tree/master/1732-find-the-highest-altitude) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/lohit-dev/Leethub/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2553-separate-the-digits-in-an-array](https://github.com/lohit-dev/Leethub/tree/master/2553-separate-the-digits-in-an-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/lohit-dev/Leethub/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/lohit-dev/Leethub/tree/master/0409-longest-palindrome) |
 | [1189-maximum-number-of-balloons](https://github.com/lohit-dev/Leethub/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/lohit-dev/Leethub/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/lohit-dev/Leethub/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2784-check-if-array-is-good](https://github.com/lohit-dev/Leethub/tree/master/2784-check-if-array-is-good) |
 ## String
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/lohit-dev/Leethub/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/lohit-dev/Leethub/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/lohit-dev/Leethub/tree/master/0977-squares-of-a-sorted-array) |
+| [1331-rank-transform-of-an-array](https://github.com/lohit-dev/Leethub/tree/master/1331-rank-transform-of-an-array) |
 | [2784-check-if-array-is-good](https://github.com/lohit-dev/Leethub/tree/master/2784-check-if-array-is-good) |
 ## Trie
 |  |
