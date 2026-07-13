@@ -2,7 +2,7 @@
  * @param {number[]} arr
  * @return {number[]}
  */
-var arrayRankTransform = function(arr) {
+var arrayRankTransform = function (arr) {
     let nums = [...arr].sort((a, b) => a - b);
 
     let rank = 1;
@@ -15,5 +15,5 @@ var arrayRankTransform = function(arr) {
         rank++;
     }
 
-   return arr.map(num => hashmap[num]);
+    return arr.map(num => hashmap[num]);
 };
