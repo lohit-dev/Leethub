@@ -6,4 +6,3 @@ class Solution:
         return [d[num] for num in arr]
             
                 
-    
