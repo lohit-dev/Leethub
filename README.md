@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/lohit-dev/Leethub/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/lohit-dev/Leethub/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2351-first-letter-to-appear-twice](https://github.com/lohit-dev/Leethub/tree/master/2351-first-letter-to-appear-twice) |
+| [2490-circular-sentence](https://github.com/lohit-dev/Leethub/tree/master/2490-circular-sentence) |
 ## Sliding Window
 |  |
 | ------- |
