@@ -7,7 +7,6 @@ class Node {
     }
 }
 
-
 /**
  * @param {number} capacity
  */
