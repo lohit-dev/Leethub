@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/lohit-dev/Leethub/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/lohit-dev/Leethub/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/lohit-dev/Leethub/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/lohit-dev/Leethub/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/lohit-dev/Leethub/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Linked List
 |  |
@@ -247,4 +248,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/lohit-dev/Leethub/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/lohit-dev/Leethub/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
