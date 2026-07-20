@@ -10,19 +10,31 @@
  * @param {TreeNode} root
  * @return {TreeNode}
  */
+// var invertTree = function (root) {
+//     if (root === null) return null
+
+//     const queue = [root]
+
+//     while (queue.length > 0) {
+//         const curr = queue.shift();
+
+//         [curr.left, curr.right] = [curr.right, curr.left];;
+
+//         if (curr.right) queue.push(curr.right)
+//         if (curr.left) queue.push(curr.left)
+//     }
+
+//     return root
+// };
+
 var invertTree = function (root) {
-    if (root === null) return null
+    if (root === null) return null;
+    if (root.left === null && root.right === null) return root;
 
-    const queue = [root]
+    [root.left, root.right] = [root.right, root.left];
 
-    while (queue.length > 0) {
-        const curr = queue.shift();
+    invertTree(root.left);
+    invertTree(root.right);
 
-        [curr.left, curr.right] = [curr.right, curr.left];;
-
-        if (curr.right) queue.push(curr.right)
-        if (curr.left) queue.push(curr.left)
-    }
-
-    return root
-};
+    return root;
+};;
