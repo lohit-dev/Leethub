@@ -19,7 +19,7 @@ var isBalanced = function (root) {
         Math.abs(leftHeight - rightHeight) <= 1 &&
         isBalanced(root.left) &&
         isBalanced(root.right)
-        )
+    )
 };
 
 function height(root) {
