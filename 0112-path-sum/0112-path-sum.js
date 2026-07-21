@@ -11,25 +11,25 @@
  * @param {number} targetSum
  * @return {boolean}
  */
-// var hasPathSum = function (root, targetSum) {
-//     if (root === null) return false
-//     if (root.left === null && root.right === null && root.val === targetSum) return true;
-
-//     return hasPathSum(root.left, targetSum - root.val) || hasPathSum(root.right, targetSum - root.val)
-// };
-
 var hasPathSum = function (root, targetSum) {
     if (root === null) return false
-    const stack = [[root, targetSum]]
+    if (root.left === null && root.right === null && root.val === targetSum) return true;
 
-    while (stack.length > 0) {
-        let [curr, target] = stack.pop()
-        if (curr.left === null && curr.right === null && curr.val === target) return true
-        const remaining = target - curr.val
+    return hasPathSum(root.left, targetSum - root.val) || hasPathSum(root.right, targetSum - root.val)
+};
 
-        if (curr.left) stack.push([curr.left, remaining])
-        if (curr.right) stack.push([curr.right, remaining])
-    }
+// var hasPathSum = function (root, targetSum) {
+//     if (root === null) return false
+//     const stack = [[root, targetSum]]
 
-    return false
-}
+//     while (stack.length > 0) {
+//         let [curr, target] = stack.pop()
+//         if (curr.left === null && curr.right === null && curr.val === target) return true
+//         const remaining = target - curr.val
+
+//         if (curr.left) stack.push([curr.left, remaining])
+//         if (curr.right) stack.push([curr.right, remaining])
+//     }
+
+//     return false
+// }
