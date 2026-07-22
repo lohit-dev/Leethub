@@ -21,5 +21,5 @@ var lowestCommonAncestor = function (root, p, q) {
     if (left !== null && right !== null) return root;
     if (left !== null) return left;
 
-    return right;
+    return left ?? right
 };
