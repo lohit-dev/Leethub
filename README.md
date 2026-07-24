@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/lohit-dev/Leethub/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/lohit-dev/Leethub/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/lohit-dev/Leethub/tree/master/0013-roman-to-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/lohit-dev/Leethub/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/lohit-dev/Leethub/tree/master/1979-find-greatest-common-divisor-of-array) |
