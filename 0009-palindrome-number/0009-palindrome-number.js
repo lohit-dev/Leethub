@@ -2,19 +2,33 @@
  * @param {number} x
  * @return {boolean}
  */
+// var isPalindrome = function(x) {
+//    let numString = x.toString() 
+//    let left = 0
+//    let right = numString.length - 1
+
+//    while (left < right) {
+//     if (numString[left] !== numString[right]) {
+//         return false
+//     }
+//     left++
+//     right--
+//    }
+
+//    return true
+// };
+
 var isPalindrome = function(x) {
-   let numString = x.toString() 
-   let left = 0
-   let right = numString.length - 1
-
-   while (left < right) {
-    if (numString[left] !== numString[right]) {
-        return false
+    if (x < 0 || (x % 10 === 0 && x !== 0)) {
+        return false;
     }
-    left++
-    right--
-   }
 
-   return true
-};
+    let reversedHalf = 0;
 
+    while (x > reversedHalf) {
+        reversedHalf = reversedHalf * 10 + (x % 10);
+        x = Math.floor(x / 10);
+    }
+
+    return x === reversedHalf || x === Math.floor(reversedHalf / 10);
+}
