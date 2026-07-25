@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/lohit-dev/Leethub/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/lohit-dev/Leethub/tree/master/1331-rank-transform-of-an-array) |
 | [2784-check-if-array-is-good](https://github.com/lohit-dev/Leethub/tree/master/2784-check-if-array-is-good) |
+| [3536-maximum-product-of-two-digits](https://github.com/lohit-dev/Leethub/tree/master/3536-maximum-product-of-two-digits) |
 ## Trie
 |  |
 | ------- |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/lohit-dev/Leethub/tree/master/0013-roman-to-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/lohit-dev/Leethub/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/lohit-dev/Leethub/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/lohit-dev/Leethub/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/lohit-dev/Leethub/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/lohit-dev/Leethub/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Linked List
