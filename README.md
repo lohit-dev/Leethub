@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/lohit-dev/Leethub/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/lohit-dev/Leethub/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/lohit-dev/Leethub/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/lohit-dev/Leethub/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/lohit-dev/Leethub/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/lohit-dev/Leethub/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/lohit-dev/Leethub/tree/master/0643-maximum-average-subarray-i) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/lohit-dev/Leethub/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/lohit-dev/Leethub/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/lohit-dev/Leethub/tree/master/0242-valid-anagram) |
+| [0414-third-maximum-number](https://github.com/lohit-dev/Leethub/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/lohit-dev/Leethub/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/lohit-dev/Leethub/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/lohit-dev/Leethub/tree/master/1331-rank-transform-of-an-array) |
