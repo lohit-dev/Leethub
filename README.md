@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/lohit-dev/Leethub/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/lohit-dev/Leethub/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/lohit-dev/Leethub/tree/master/0283-move-zeroes) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/lohit-dev/Leethub/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/lohit-dev/Leethub/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/lohit-dev/Leethub/tree/master/0643-maximum-average-subarray-i) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/lohit-dev/Leethub/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/lohit-dev/Leethub/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/lohit-dev/Leethub/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/lohit-dev/Leethub/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/lohit-dev/Leethub/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0567-permutation-in-string](https://github.com/lohit-dev/Leethub/tree/master/0567-permutation-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/lohit-dev/Leethub/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/lohit-dev/Leethub/tree/master/1331-rank-transform-of-an-array) |
