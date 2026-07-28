@@ -24,4 +24,3 @@ var firstMissingPositive = function (nums) {
 
     return nums.length + 1;
 };
-
