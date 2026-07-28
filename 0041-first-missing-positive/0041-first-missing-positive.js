@@ -10,10 +10,7 @@ var firstMissingPositive = function (nums) {
             nums[nums[i] - 1] !== nums[i]
         ) {
             let correctIndex = nums[i] - 1;
-
-            let temp = nums[i];
-            nums[i] = nums[correctIndex];
-            nums[correctIndex] = temp;
+            [nums[i], nums[correctIndex]] = [nums[correctIndex], nums[i]];
         }
     }
 
