@@ -14,6 +14,8 @@ var firstMissingPositive = function (nums) {
         }
     }
 
+    // console.log(nums)
+
     for (let i = 0; i < nums.length; i++) {
         if (nums[i] !== i + 1) {
             return i + 1;
@@ -22,3 +24,4 @@ var firstMissingPositive = function (nums) {
 
     return nums.length + 1;
 };
+
