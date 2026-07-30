@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lohit-dev/Leethub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/lohit-dev/Leethub/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/lohit-dev/Leethub/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/lohit-dev/Leethub/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/lohit-dev/Leethub/tree/master/0647-palindromic-substrings) |
 ## Hash Table
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/lohit-dev/Leethub/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/lohit-dev/Leethub/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/lohit-dev/Leethub/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/lohit-dev/Leethub/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/lohit-dev/Leethub/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/lohit-dev/Leethub/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/lohit-dev/Leethub/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/lohit-dev/Leethub/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/lohit-dev/Leethub/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/lohit-dev/Leethub/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/lohit-dev/Leethub/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/lohit-dev/Leethub/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/lohit-dev/Leethub/tree/master/0647-palindromic-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/lohit-dev/Leethub/tree/master/0876-middle-of-the-linked-list) |
