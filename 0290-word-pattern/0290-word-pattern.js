@@ -4,7 +4,7 @@
  * @return {boolean}
  */
 // Note for my future me can't use {} because a test case has
-// contructer in it and javascript treat's it as keywords and
+// "contructer" in it and javascript treat's it as keywords and
 // the if statements returns true instead of false 
 var wordPattern = function (pattern, s) {
     let charToWord = new Map();
