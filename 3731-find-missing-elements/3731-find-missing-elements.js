@@ -13,7 +13,7 @@ var findMissingElements = function (nums) {
         largest = Math.max(largest, num)
     }
 
-    for (let i = smallest; i < largest; i++) {
+    for (let i = smallest; i <= largest; i++) {
         if (!hashset.has(i)) {
             result.push(i)
         }
