@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/lohit-dev/Leethub/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lohit-dev/Leethub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/lohit-dev/Leethub/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/lohit-dev/Leethub/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/lohit-dev/Leethub/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/lohit-dev/Leethub/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/lohit-dev/Leethub/tree/master/0283-move-zeroes) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/lohit-dev/Leethub/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/lohit-dev/Leethub/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/lohit-dev/Leethub/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0200-number-of-islands](https://github.com/lohit-dev/Leethub/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/lohit-dev/Leethub/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/lohit-dev/Leethub/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/lohit-dev/Leethub/tree/master/0226-invert-binary-tree) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/lohit-dev/Leethub/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/lohit-dev/Leethub/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/lohit-dev/Leethub/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/lohit-dev/Leethub/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/lohit-dev/Leethub/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/lohit-dev/Leethub/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/lohit-dev/Leethub/tree/master/0226-invert-binary-tree) |
@@ -375,4 +378,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/lohit-dev/Leethub/tree/master/0207-course-schedule) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/lohit-dev/Leethub/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/lohit-dev/Leethub/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
