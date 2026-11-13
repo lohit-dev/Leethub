@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/lohit-dev/Leethub/tree/master/0643-maximum-average-subarray-i) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/lohit-dev/Leethub/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0792-binary-search](https://github.com/lohit-dev/Leethub/tree/master/0792-binary-search) |
+| [0934-shortest-bridge](https://github.com/lohit-dev/Leethub/tree/master/0934-shortest-bridge) |
 | [0977-squares-of-a-sorted-array](https://github.com/lohit-dev/Leethub/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/lohit-dev/Leethub/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/lohit-dev/Leethub/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/lohit-dev/Leethub/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/lohit-dev/Leethub/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/lohit-dev/Leethub/tree/master/0543-diameter-of-binary-tree) |
+| [0934-shortest-bridge](https://github.com/lohit-dev/Leethub/tree/master/0934-shortest-bridge) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/lohit-dev/Leethub/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/lohit-dev/Leethub/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/lohit-dev/Leethub/tree/master/0226-invert-binary-tree) |
+| [0934-shortest-bridge](https://github.com/lohit-dev/Leethub/tree/master/0934-shortest-bridge) |
 ## Binary Tree
 |  |
 | ------- |
@@ -386,4 +389,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/lohit-dev/Leethub/tree/master/0200-number-of-islands) |
+| [0934-shortest-bridge](https://github.com/lohit-dev/Leethub/tree/master/0934-shortest-bridge) |
 <!---LeetCode Topics End-->
