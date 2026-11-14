@@ -12,7 +12,6 @@ var coinChange = function (coins, amount, memo = {}) {
 
     for (let coin of coins) {
         const diff = amount - coin;
-
         const result = coinChange(coins, diff, memo);
 
         // here +1 is added because we need to know how many level's it took until
