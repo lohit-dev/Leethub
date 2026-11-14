@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/lohit-dev/Leethub/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/lohit-dev/Leethub/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/lohit-dev/Leethub/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/lohit-dev/Leethub/tree/master/0322-coin-change) |
 | [0414-third-maximum-number](https://github.com/lohit-dev/Leethub/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/lohit-dev/Leethub/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/lohit-dev/Leethub/tree/master/0628-maximum-product-of-three-numbers) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lohit-dev/Leethub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/lohit-dev/Leethub/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/lohit-dev/Leethub/tree/master/0152-maximum-product-subarray) |
+| [0322-coin-change](https://github.com/lohit-dev/Leethub/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/lohit-dev/Leethub/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/lohit-dev/Leethub/tree/master/0647-palindromic-substrings) |
 ## Hash Table
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/lohit-dev/Leethub/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/lohit-dev/Leethub/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/lohit-dev/Leethub/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/lohit-dev/Leethub/tree/master/0322-coin-change) |
 | [0934-shortest-bridge](https://github.com/lohit-dev/Leethub/tree/master/0934-shortest-bridge) |
 ## Binary Tree
 |  |
@@ -390,4 +393,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/lohit-dev/Leethub/tree/master/0200-number-of-islands) |
 | [0934-shortest-bridge](https://github.com/lohit-dev/Leethub/tree/master/0934-shortest-bridge) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/lohit-dev/Leethub/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/lohit-dev/Leethub/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
