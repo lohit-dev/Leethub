@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/lohit-dev/Leethub/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/lohit-dev/Leethub/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/lohit-dev/Leethub/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/lohit-dev/Leethub/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/lohit-dev/Leethub/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lohit-dev/Leethub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/lohit-dev/Leethub/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/lohit-dev/Leethub/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/lohit-dev/Leethub/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/lohit-dev/Leethub/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/lohit-dev/Leethub/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/lohit-dev/Leethub/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0628-maximum-product-of-three-numbers](https://github.com/lohit-dev/Leethub/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/lohit-dev/Leethub/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -406,4 +408,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/lohit-dev/Leethub/tree/master/0322-coin-change) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/lohit-dev/Leethub/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
