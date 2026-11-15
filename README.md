@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/lohit-dev/Leethub/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/lohit-dev/Leethub/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/lohit-dev/Leethub/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/lohit-dev/Leethub/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/lohit-dev/Leethub/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/lohit-dev/Leethub/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lohit-dev/Leethub/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/lohit-dev/Leethub/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/lohit-dev/Leethub/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/lohit-dev/Leethub/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/lohit-dev/Leethub/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lohit-dev/Leethub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/lohit-dev/Leethub/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/lohit-dev/Leethub/tree/master/0152-maximum-product-subarray) |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/lohit-dev/Leethub/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/lohit-dev/Leethub/tree/master/0200-number-of-islands) |
 | [0934-shortest-bridge](https://github.com/lohit-dev/Leethub/tree/master/0934-shortest-bridge) |
 ## Knapsack Problem
