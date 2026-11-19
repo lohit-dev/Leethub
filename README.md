@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/lohit-dev/Leethub/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/lohit-dev/Leethub/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/lohit-dev/Leethub/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/lohit-dev/Leethub/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/lohit-dev/Leethub/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/lohit-dev/Leethub/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/lohit-dev/Leethub/tree/master/0055-jump-game) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/lohit-dev/Leethub/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/lohit-dev/Leethub/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/lohit-dev/Leethub/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/lohit-dev/Leethub/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/lohit-dev/Leethub/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/lohit-dev/Leethub/tree/master/0062-unique-paths) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/lohit-dev/Leethub/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/lohit-dev/Leethub/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/lohit-dev/Leethub/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/lohit-dev/Leethub/tree/master/0409-longest-palindrome) |
 ## Binary Search
