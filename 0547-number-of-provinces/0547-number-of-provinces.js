@@ -3,7 +3,7 @@
  * @return {number}
  */
 var findCircleNum = function (isConnected) {
-    const adj = buildGraph(isConnected)
+    const adj = buildList(isConnected)
 
     const visited = new Set([])
     let count = 0
@@ -28,14 +28,15 @@ var findCircleNum = function (isConnected) {
     return count
 };
 
-function buildGraph(graph) {
+// we are building matrix -> adjList
+function buildList(matrix) {
     const adj = {}
 
-    for (let i = 0; i < graph.length; i++) {
+    for (let i = 0; i < matrix.length; i++) {
         adj[i] = []
 
-        for (let j = 0; j < graph[i].length; j++) {
-            if (graph[i][j] === 1 && i !== j) {
+        for (let j = 0; j < matrix[i].length; j++) {
+            if (matrix[i][j] === 1 && i !== j) {
                 adj[i].push(j)
             }
         }
