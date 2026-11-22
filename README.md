@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/lohit-dev/Leethub/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/lohit-dev/Leethub/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lohit-dev/Leethub/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/lohit-dev/Leethub/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/lohit-dev/Leethub/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/lohit-dev/Leethub/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/lohit-dev/Leethub/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/lohit-dev/Leethub/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lohit-dev/Leethub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/lohit-dev/Leethub/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/lohit-dev/Leethub/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/lohit-dev/Leethub/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/lohit-dev/Leethub/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/lohit-dev/Leethub/tree/master/0322-coin-change) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/lohit-dev/Leethub/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/lohit-dev/Leethub/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/lohit-dev/Leethub/tree/master/0049-group-anagrams) |
+| [0139-word-break](https://github.com/lohit-dev/Leethub/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/lohit-dev/Leethub/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/lohit-dev/Leethub/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/lohit-dev/Leethub/tree/master/0146-lru-cache) |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/lohit-dev/Leethub/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/lohit-dev/Leethub/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/lohit-dev/Leethub/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/lohit-dev/Leethub/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/lohit-dev/Leethub/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/lohit-dev/Leethub/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/lohit-dev/Leethub/tree/master/0290-word-pattern) |
@@ -200,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/lohit-dev/Leethub/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/lohit-dev/Leethub/tree/master/0139-word-break) |
 ## Greedy
 |  |
 | ------- |
@@ -438,4 +443,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/lohit-dev/Leethub/tree/master/1143-longest-common-subsequence) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/lohit-dev/Leethub/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/lohit-dev/Leethub/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
