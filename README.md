@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/lohit-dev/Leethub/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/lohit-dev/Leethub/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/lohit-dev/Leethub/tree/master/0392-is-subsequence) |
+| [0516-longest-palindromic-subsequence](https://github.com/lohit-dev/Leethub/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/lohit-dev/Leethub/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/lohit-dev/Leethub/tree/master/0647-palindromic-substrings) |
 ## Hash Table
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/lohit-dev/Leethub/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/lohit-dev/Leethub/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/lohit-dev/Leethub/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0516-longest-palindromic-subsequence](https://github.com/lohit-dev/Leethub/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/lohit-dev/Leethub/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/lohit-dev/Leethub/tree/master/0647-palindromic-substrings) |
 | [1189-maximum-number-of-balloons](https://github.com/lohit-dev/Leethub/tree/master/1189-maximum-number-of-balloons) |
