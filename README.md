@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/lohit-dev/Leethub/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/lohit-dev/Leethub/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/lohit-dev/Leethub/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/lohit-dev/Leethub/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2351-first-letter-to-appear-twice](https://github.com/lohit-dev/Leethub/tree/master/2351-first-letter-to-appear-twice) |
 | [2490-circular-sentence](https://github.com/lohit-dev/Leethub/tree/master/2490-circular-sentence) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/lohit-dev/Leethub/tree/master/3517-smallest-palindromic-rearrangement-i) |
