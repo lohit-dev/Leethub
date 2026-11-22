@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/lohit-dev/Leethub/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/lohit-dev/Leethub/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/lohit-dev/Leethub/tree/master/0647-palindromic-substrings) |
+| [1143-longest-common-subsequence](https://github.com/lohit-dev/Leethub/tree/master/1143-longest-common-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/lohit-dev/Leethub/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/lohit-dev/Leethub/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/lohit-dev/Leethub/tree/master/0647-palindromic-substrings) |
+| [1143-longest-common-subsequence](https://github.com/lohit-dev/Leethub/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/lohit-dev/Leethub/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/lohit-dev/Leethub/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/lohit-dev/Leethub/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -432,4 +434,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/lohit-dev/Leethub/tree/master/0062-unique-paths) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/lohit-dev/Leethub/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
