@@ -1,7 +1,6 @@
 
 var ProductOfNumbers = function () {
     this.prefix = [1]
-
 };
 
 /** 
