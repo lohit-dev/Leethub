@@ -4,6 +4,7 @@
  * @return {string}
  */
 var removeDigit = function (number, digit, i = 0) {
+    // i could come up with approach but couldn't code
     if (i === number.length) return ""
 
     const exclude = removeDigit(number, digit, i + 1)
