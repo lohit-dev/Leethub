@@ -3,17 +3,17 @@
  * @return {boolean}
  */
 var canJump = function (nums, i = 0, memo = {}) {
-    if (i in memo) return memo[i];
-    if (i >= nums.length - 1) return true;
+    if (i >= nums.length - 1) return true
+    if (i in memo) return memo[i]
 
-    const maxStep = nums[i];
-    for (let step = 1; step <= maxStep; step += 1) {
-        if (canJump(nums, i + step, memo) === true) {
-            memo[i] = true;
-            return true;
-        };
+    const step = nums[i]
+    for (let j = 1; j <= step; j++) {
+        if (canJump(nums, i + j, memo)) {
+            memo[i] = true
+            return true
+        }
     }
 
-    memo[i] = false;
-    return false;
+    memo[i] = false
+    return false
 };
