@@ -22,7 +22,9 @@ var longestOnes = function (nums, k) {
             start++
         }
 
-        longestOne = Math.max(longestOne, i - start + 1)
+        if (zeroCount <= k) {
+            longestOne = Math.max(longestOne, i - start + 1);
+        }
     }
 
     return longestOne;
