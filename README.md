@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/lohit-dev/Leethub/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/lohit-dev/Leethub/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/lohit-dev/Leethub/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/lohit-dev/Leethub/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2351-first-letter-to-appear-twice](https://github.com/lohit-dev/Leethub/tree/master/2351-first-letter-to-appear-twice) |
 | [2490-circular-sentence](https://github.com/lohit-dev/Leethub/tree/master/2490-circular-sentence) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/lohit-dev/Leethub/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/lohit-dev/Leethub/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/lohit-dev/Leethub/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/lohit-dev/Leethub/tree/master/0409-longest-palindrome) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/lohit-dev/Leethub/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 ## Binary Search
 |  |
 | ------- |
@@ -480,4 +482,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/lohit-dev/Leethub/tree/master/1352-product-of-the-last-k-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/lohit-dev/Leethub/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 <!---LeetCode Topics End-->
