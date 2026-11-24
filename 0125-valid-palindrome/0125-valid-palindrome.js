@@ -2,14 +2,17 @@
  * @param {string} s
  * @return {boolean}
  */
-var isPalindrome = function(s) {
-    let cleaned = s.toLowerCase().replace(/[^a-z0-9]/g,"")
-    let left=0,right=cleaned.length - 1
-    
+var isPalindrome = function (s) {
+    const cleaned = s.toLowerCase().split("").filter((s) => (s >= "a" && s <= "z" || s >= "0" && s <= "9")).join("")
+
+    let left = 0
+    let right = cleaned.length - 1
+
     while (left < right) {
         if (cleaned[left] !== cleaned[right]) return false
-        left+=1
-        right-=1
+
+        left++
+        right--
     }
 
     return true
